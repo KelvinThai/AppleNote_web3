@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "SFUIDisplay-Thin";
+  src: url("/fonts/SFUIDisplay-Thin.woff");
+}
+
+@font-face {
+  font-family: "SFUIText-Medium";
+  src: url("/fonts/SFUIText-Medium.woff");  
+}
